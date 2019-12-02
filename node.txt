@@ -12,9 +12,9 @@ ssr://czQ1Lndld2FsbC50b3A6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46YzNWd1pYSnpjM0l1Yl
 
 ssr://czExLndld2FsbC50b3A6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46YzNWd1pYSnpjM0l1YldVLz9wcm90b3BhcmFtPU1UZ3lNekE1T21Kdk4wOW9jZyZyZW1hcmtzPThKLUhyZkNmaDdBZ1NFc2dRWHAxY21VZ05qQXdUU0I4VmpkOFVqRXVOemg4TVRF
 
-# 🇨🇳 台湾家宽
+# 🇨🇳 TW V7
 
-ss://YWVzLTEyOC1jZmI6ZGVhZDRiZQ==@twkvmjh.kbvnj00.lka.tenvm.com:31024#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E5%AE%B6%E5%AE%BD%20%7CV7%7CR0.94%7C96
+ss://YWVzLTEyOC1jZmI6ZGVhZDRiZQ==@twkvmjh.kbvnj00.lka.tenvm.com:31024#%F0%9F%87%A8%F0%9F%87%B3%20TW%20%7CV7%7CR0.94%7C96
 
 # 🇭🇰 HK AZURE 600M V6
 
